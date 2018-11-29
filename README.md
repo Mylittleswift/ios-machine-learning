@@ -1,5 +1,6 @@
 # ios-machine-learning
-[Working with Core ML Models](https://developer.apple.com/machine-learning/build-run-models/)
+[Working with Core ML Models](https://developer.apple.com/machine-learning/build-run-models/).
+
 [Core ML API](https://developer.apple.com/documentation/coreml?language=objc)
 
 ## Open-source library
