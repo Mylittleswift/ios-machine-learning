@@ -1,7 +1,10 @@
 # ios-machine-learning
-[Working with Core ML Models](https://developer.apple.com/machine-learning/build-run-models/).
+## Apple's official document
+[Working with Core ML Models](https://developer.apple.com/machine-learning/build-run-models/)
 
 [Core ML API](https://developer.apple.com/documentation/coreml?language=objc)
+
+## [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
 
 ## Open-source library
 * [Swift-Brain](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI.
